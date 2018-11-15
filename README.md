@@ -1,6 +1,16 @@
 # bot-twitch
 
-Voici un botchat que j'ai réaliser en Node.js, il ne fait pas encore grand chose mais c'est qu'un début. 
+# Technologie.
+
+Node.js
+
+# A quoi ça sert? 
+
+Répondre aux questions des gens, modérer les lives tchats, exlure les liens hypertextes non admis. 
+
+# Pourquoi? 
+
+Pour comprendre comment fonctionne un bot tchat, découvrir de nouvelles technologies. 
 
 # Source 
 
